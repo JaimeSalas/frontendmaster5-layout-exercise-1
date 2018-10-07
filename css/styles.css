@@ -1,0 +1,59 @@
+.darken-1 {
+  background-color: #0000cc;
+}
+
+.darken-2 {
+  background-color: #000099;
+}
+
+.darken-3 {
+  background-color: #000066;
+}
+
+.darken-4 {
+  background-color: #000033;
+}
+
+.lighten-1 {
+  background-color: #3333ff;
+}
+
+.lighten-2 {
+  background-color: #6666ff;
+}
+
+.lighten-3 {
+  background-color: #9999ff;
+}
+
+.lighten-4 {
+  background-color: #ccccff;
+}
+
+.container {
+  width: 90%;
+  position: relative;
+  top: 20vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  margin: 0.2rem;
+  width: 10%;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  color: yellow;
+}
+
+.base-color {
+  background-color: #0000FF;
+  width: 14%;
+}
+
+.color-box-text {
+  margin: auto;
+}
