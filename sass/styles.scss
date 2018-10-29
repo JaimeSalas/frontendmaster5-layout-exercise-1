@@ -15,7 +15,7 @@ $font-color: complement($base-color);
 
 .container {
   width: 90%;
-  position: relative;
+  position: relative; // No sense
   top: 20vh;
   margin: auto;
   display: flex;
@@ -34,9 +34,9 @@ $font-color: complement($base-color);
 
 .base-color {
   background-color: $base-color;
-  width: 14%;
+  width: 14%; // Can we take it off. 
 }
 
 .color-box-text {
-  margin: auto;
+  margin: auto; 
 }
